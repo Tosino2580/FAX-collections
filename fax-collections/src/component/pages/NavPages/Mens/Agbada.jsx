@@ -92,7 +92,7 @@ const AgbadaData = ({ product }) => {
 
           <div className=" bg-black text-white">
               <h3 className="font-semibold uppercase">{product.name}</h3>
-              <p className="text-yellow-400">{product.price}</p>
+              <p className="text-yellow-300">{product.price}</p>
           </div>
       </div>
   )
